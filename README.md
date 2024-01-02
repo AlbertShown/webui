@@ -203,6 +203,10 @@ Think of WebUI like a WebView controller, but instead of embedding the WebView c
 
 > Licensed under MIT License.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlbertShown%2Fwebui.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlbertShown%2Fwebui?ref=badge_large)
+
 ### Stargazers
 
 [![Stargazers repo roster for @webui-dev/webui](https://reporoster.com/stars/webui-dev/webui)](https://github.com/webui-dev/webui/stargazers)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlbertShown%2Fwebui.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlbertShown%2Fwebui?ref=badge_shield)
